@@ -14,10 +14,10 @@ The goal is efficiently find the forecastability score and run an anomaly detect
 
 ## Architecture
 ### Training phase
-(photos\arch1.png)
+(photos/arch1.png)
 
 ### Test phase
-(photos\arch2.png)
+(photos/arch2.png)
 
 ## My approach
 The full doumentation of my work and this hackathon is here in this [link]() and video [demo]().
