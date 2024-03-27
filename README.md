@@ -13,11 +13,11 @@ The goal is efficiently find the forecastability score and run an anomaly detect
 * Model optimization: Optimize the model's per fit training time to reduce the overa;; execution time for entire set of batches. 
 
 ## Architecture
-### Training phase
-(photos/arch1.png)
+### Training Phase
+![Training Phase Architecture](photos/arch1.png)
 
-### Test phase
-(photos/arch2.png)
+### Test Phase
+![Test Phase Architecture](photos/arch2.png)
 
 ## My approach
 The full doumentation of my work and this hackathon is here in this [link]() and video [demo]().
