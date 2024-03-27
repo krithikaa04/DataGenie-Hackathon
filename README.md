@@ -63,6 +63,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-##Technologies used
+## Technologies used
 * Backend: FastAPI
 * Frontend: Streamlit
