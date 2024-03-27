@@ -1,0 +1,42 @@
+[
+    {
+        "point_timestamp": "2022-02-01T10:20:30",
+        "point_value": 130.2
+    },
+    {
+        "point_timestamp": "2022-03-01T10:20:30",
+        "point_value": 205.45
+    },
+    {
+        "point_timestamp": "2022-04-01T10:20:30",
+        "point_value": 185.7
+    },
+    {
+        "point_timestamp": "2022-05-01T10:20:30",
+        "point_value": 140.9
+    },
+    {
+        "point_timestamp": "2022-06-01T10:20:30",
+        "point_value": 215.12
+    },
+    {
+        "point_timestamp": "2022-07-01T10:20:30",
+        "point_value": 193.8
+    },
+    {
+        "point_timestamp": "2022-08-01T10:20:30",
+        "point_value": 150.3
+    },
+    {
+        "point_timestamp": "2022-09-01T10:20:30",
+        "point_value": 220.67
+    },
+    {
+        "point_timestamp": "2022-10-01T10:20:30",
+        "point_value": 200.9
+    },
+    {
+        "point_timestamp": "2022-11-01T10:20:30",
+        "point_value": 165.2
+    }
+]
