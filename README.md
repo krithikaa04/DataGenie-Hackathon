@@ -20,7 +20,7 @@ The goal is efficiently find the forecastability score and run an anomaly detect
 ![Test Phase Architecture](photos/arch2.png)
 
 ## My approach
-The full doumentation of my work and this hackathon is here in this [link]() and video [demo]().
+The full doumentation of my work and this hackathon is here in this [link]() and video [demo](https://drive.google.com/drive/folders/1Iv1qMObz5P-rUdyPuuuPVe8InvYRSWOR?usp=drive_link).
 
 ## Getting started
 Clone this repo in your local machine
